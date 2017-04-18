@@ -1,0 +1,26 @@
+RAY150
+2.905630 0.000000 3.138636 // view point
+-0.523299 0.000000 -0.852149 // line of sight
+0.000000 1.000000 0.000000 // head up vector
+0.852149 0.000000 -0.523299 // right hand vector
+40.000000 // vertical view angle
+2 // number of light sources
+20.000000 20.000000 20.000000 // light source position
+0.992157 0.756863 0.803922 // light source color
+1 // light source status
+-8.226818 0.000000 28.176342 // light source position
+0.000000 1.000000 1.000000 // light source color
+1 // light source status
+1 // number of objects
+3 // type
+0.825232 -0.111803 -0.553617 0.000000 -0.044282 0.964386 -0.260766 0.000000 0.563055 0.239708 0.790891 0.000000 -0.427252 -0.239708 -2.689886 1.000000 // transform M
+0.000000 0.000000 0.000000 // ambient
+1.000000 0.501961 0.000000 // diffuse
+0.262745 0.262745 0.905882 // specular
+100.000000 // shininess
+1.000000 // refractive index
+0.500000 // reflectance
+1.000000 // opacity
+
+
+RAY150_EOF
