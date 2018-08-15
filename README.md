@@ -7,6 +7,8 @@ A Computer Graphics Environment for 3D Modeling with Ray Tracing.
 
 ### Demo
 
+Download demo [here](https://github.com/irsisyphus/ray-tracing/blob/master/demo/ray.exe).
+
 <img src="https://github.com/irsisyphus/pictures/raw/master/ray-tracing/ray.png" alt="ray-tracing" width=400/>
 
 You can draw your own scene by creating new objects and render selected/whole region.
